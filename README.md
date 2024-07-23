@@ -1,4 +1,6 @@
-# Drona_Avaition_Git
+# Drona Aviation
+# Pluto Drone Swarm Challenge
+# Inter ITT Tech Meet 11.0 IIT Kanpur
 
 Task_1 Submission
 Refer task_1.py
